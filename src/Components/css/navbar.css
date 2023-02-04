@@ -1,0 +1,39 @@
+.container{
+    position: absolute;
+    width: 1220px;
+    height: 152px;
+    left: 3rem;
+    top: 1rem;
+    
+}
+
+
+.logo{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    gap: 13px;
+
+    width: 236.26px;
+    height: 60px;
+}
+
+a{
+    /*Off*/
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+.navbar-link{
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+
+
