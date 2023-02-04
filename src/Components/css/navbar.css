@@ -3,7 +3,7 @@
     width: 1220px;
     height: 152px;
     left: 3rem;
-    top: 1rem;
+    top: 2rem;
     
 }
 
@@ -15,7 +15,7 @@
     align-items: center;
     padding: 0;
     gap: 13px;
-
+    top: -1.5rem;
     width: 236.26px;
     height: 60px;
 }
@@ -23,7 +23,7 @@
 a{
     /*Off*/
     outline: none;
-    text-decoration: none;
+   
     padding: 2px 1px 0;
 }
 
@@ -33,6 +33,57 @@ a{
     justify-content: flex-end;
     align-items: center;
 }
+
+
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 2rem;
+}
+
+nav a{
+    margin: 0 2rem;
+    text-decoration: none;
+}
+
+
+nav a:hover{
+    color: rgba(0, 0, 0 0.7);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
