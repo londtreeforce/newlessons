@@ -1,8 +1,15 @@
-import React from 'react'
+import React from 'react';
+import './css/company.css';
 
 const Company = () => {
   return (
-    <div>Company</div>
+    <>
+      <div className='border_company'>
+        <div className='h&m obey shopfy lacoste levis amazon'>
+          
+        </div>
+      </div>
+    </>
   )
 }
 
